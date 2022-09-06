@@ -1,0 +1,12 @@
+ Volume in drive V is New Volume
+ Volume Serial Number is 1E51-6EDB
+
+ Directory of V:\Github Projects\batch-scripting
+
+06-09-2022  09:41    <DIR>          .
+04-09-2022  19:39    <DIR>          ..
+04-09-2022  19:40                22 hello.bat
+06-09-2022  09:41                 0 myFile_1.txt
+06-09-2022  09:41               146 withEcho.bat
+               3 File(s)            168 bytes
+               2 Dir(s)  275,548,798,976 bytes free
